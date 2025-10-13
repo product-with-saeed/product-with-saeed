@@ -1,68 +1,52 @@
 # 👋 Hi, I'm Saeed Mohammadpour
 
-**Senior Python Developer | Web Scraping & Automation Specialist | 10+ Years**
+# Senior Python Developer | Web Scraping & Automation
 
-I build production-grade web scrapers, data pipelines, and backend automation systems for businesses. Former CTO with a decade of experience delivering scalable solutions.
+I build production-grade web scrapers and backend automation systems for businesses.
 
-## 🕷️ What I Build
+## 🕷️ Specializations
 
-**Web Scraping & Data Extraction**
-- E-commerce price monitoring & competitor tracking
-- Job board aggregation & real estate listings
-- News collection & content scraping
-- Custom scrapers for any public website
+- Web scraping & data extraction (Scrapy, Selenium, BeautifulSoup)
+- REST API development (Django, FastAPI)
+- Database design & ETL pipelines (PostgreSQL, MySQL)
+- Docker deployment & system architecture
 
-**Backend Development & APIs**
-- Django & FastAPI REST APIs
-- Database design & PostgreSQL optimization
-- ETL pipelines & data warehousing
-- System architecture & Docker deployment
+## 💼 Background
 
-## 🚀 Featured Projects
+- 10+ years as Python developer
+- Former CTO with leadership experience
+- **Delivered 50+ scraping projects** across e-commerce, jobs, and real estate
+- Focus: Production-ready code, comprehensive documentation, on-time delivery
 
-### [Production-Grade Web Scraper Template](https://github.com/product-with-saeed/scrapy-production-template) ⭐
-Complete scraping framework with 3 working spiders, PostgreSQL pipeline, Docker setup, and deployment guides. Demonstrates production-level error handling, rate limiting, and data validation.
+## 🚀 Featured Project
 
-**Stack:** Python • Scrapy • PostgreSQL • Docker  
-**Features:** 1000+ records scraped, comprehensive documentation, AWS/DigitalOcean deployment
-
----
-
-### [Django Financial API Template](https://github.com/product-with-saeed/Django-Financial-API-Template)
-REST API for financial transaction management and bookkeeping. JWT authentication, modular design, production-ready.
-
-**Stack:** Django • Django REST Framework • PostgreSQL • JWT
+**[Production-Grade Scraper Template](https://github.com/product-with-saeed/scrapy-production-template)** ⭐
+- 3 working spiders (news, quotes, e-commerce)
+- PostgreSQL pipeline with validation
+- Docker containerization
+- Complete documentation & deployment guides
+- **1000+ records scraped successfully**
 
 ## 🛠️ Tech Stack
 
-**Core:** Python • Django • FastAPI • Scrapy  
-**Scraping:** Selenium • BeautifulSoup • Requests • Playwright  
-**Databases:** PostgreSQL • MySQL • Redis  
-**DevOps:** Docker • Git • Linux • AWS • DigitalOcean
+**Languages:** Python (Expert), JavaScript, SQL  
+**Backend:** Django, FastAPI, Scrapy, Flask  
+**Databases:** PostgreSQL, MySQL, Redis  
+**Tools:** Docker, Git, Linux, REST APIs, CI/CD  
+**Cloud:** AWS, DigitalOcean, Heroku
 
-## 💼 Available for Hire
+## 📬 Currently Available For
 
-Currently taking projects:
-
-✅ Web scraping systems (e-commerce, jobs, real estate)  
-✅ Data extraction & automation  
-✅ Django/FastAPI backend development  
-✅ Database design & optimization  
-✅ API development & integration  
-
-**What you get:** Production-ready code, thorough documentation, reliable delivery
-
-## 📊 GitHub Stats
-
-![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=product-with-saeed&show_icons=true&theme=default)
+✅ Web scraping & data extraction (e-commerce, jobs, real estate)  
+✅ Price monitoring & competitor tracking systems  
+✅ Job aggregation & content collection platforms  
+✅ API development & third-party integrations  
+✅ Data pipeline engineering & automation  
 
 ## 📫 Contact
 
 💼 **LinkedIn:** [linkedin.com/in/product-with-saeed](https://www.linkedin.com/in/product-with-saeed/)  
-📧 **Email:** [product.with.saeed@gmail.com](mailto:product.with.saeed@gmail.com)  
+📧 **Email:** product.with.saeed@gmail.com  
 🌐 **Upwork:** [Saeed Mohammadpour](https://www.upwork.com/freelancers/~0186cad39ef759aae0)
 
----
-
-🌍 EU/UK timezone • Remote work globally  
-⚡ 10+ years experience • Former CTO • Available now
+**Available 40 hours/week** • EU/UK timezone • Remote worldwide
