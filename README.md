@@ -4,7 +4,7 @@
 
 I build production-grade web scrapers, data pipelines, and backend automation systems for businesses. Former CTO with a decade of experience delivering scalable solutions.
 
-## 🕷️ What I Built
+## 🕷️ What I Build
 
 **Web Scraping & Data Extraction**
 - E-commerce price monitoring & competitor tracking
@@ -14,7 +14,7 @@ I build production-grade web scrapers, data pipelines, and backend automation sy
 
 **Backend Development & APIs**
 - Django & FastAPI REST APIs
-- Database design & PostgreSQL optimisation
+- Database design & PostgreSQL optimization
 - ETL pipelines & data warehousing
 - System architecture & Docker deployment
 
@@ -37,4 +37,32 @@ REST API for financial transaction management and bookkeeping. JWT authenticatio
 
 **Core:** Python • Django • FastAPI • Scrapy  
 **Scraping:** Selenium • BeautifulSoup • Requests • Playwright  
-**Dat
+**Databases:** PostgreSQL • MySQL • Redis  
+**DevOps:** Docker • Git • Linux • AWS • DigitalOcean
+
+## 💼 Available for Hire
+
+Currently taking projects:
+
+✅ Web scraping systems (e-commerce, jobs, real estate)  
+✅ Data extraction & automation  
+✅ Django/FastAPI backend development  
+✅ Database design & optimization  
+✅ API development & integration  
+
+**What you get:** Production-ready code, thorough documentation, reliable delivery
+
+## 📊 GitHub Stats
+
+![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=product-with-saeed&show_icons=true&theme=default)
+
+## 📫 Contact
+
+💼 **LinkedIn:** [linkedin.com/in/product-with-saeed](https://www.linkedin.com/in/product-with-saeed/)  
+📧 **Email:** [product.with.saeed@gmail.com](mailto:product.with.saeed@gmail.com)  
+🌐 **Upwork:** [Saeed Mohammadpour](https://www.upwork.com/freelancers/~0186cad39ef759aae0)
+
+---
+
+🌍 EU/UK timezone • Remote work globally  
+⚡ 10+ years experience • Former CTO • Available now
