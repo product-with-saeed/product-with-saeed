@@ -1,47 +1,77 @@
 # 👋 Hi, I'm Saeed Mohammadpour
 
-## Senior Python Developer | Web Scraping & Automation
+## Senior Python Backend Developer | Django & FastAPI | Data Automation Specialist
 
-I build production-grade web scrapers and backend automation systems for businesses.
+I build production-grade backend systems for data-intensive applications — APIs, ETL pipelines, and automated data collection at scale.
 
-## 🕷️ Specializations
+---
 
-- Web scraping & data extraction (Scrapy, Selenium, BeautifulSoup)
-- REST API development (Django, FastAPI)
-- Database design & ETL pipelines (PostgreSQL, MySQL)
-- Docker deployment & system architecture
+## 🎯 What I Do
+
+I specialize in **backend development** where data extraction, transformation, and automation are critical:
+
+- **REST APIs & Backend Systems** — Django, FastAPI, PostgreSQL, Redis
+- **Web Scraping & Data Collection** — Production scrapers handling 10K+ records daily
+- **ETL Pipelines & Data Processing** — Automated workflows from extraction to storage
+- **System Architecture** — Scalable, maintainable, well-documented solutions
+
+**My edge:** I don't just build backends — I automate the entire data flow, from scraping external sources to serving clean APIs.
+
+---
 
 ## 💼 Background
 
-- 10+ years as Python developer
-- Former CTO with leadership experience
-- **Delivered 50+ scraping projects** across e-commerce, jobs, and real estate
+- **15+ years** as Python developer and software engineer
+- **Former CTO** with full-stack product delivery experience
+- **50+ data-intensive projects delivered** across e-commerce, real estate, job aggregation, and investment mapping
 - Focus: Production-ready code, comprehensive documentation, on-time delivery
 
-## 🚀 Featured Project
+---
 
-**[Production-Grade Scraper Template](https://github.com/product-with-saeed/scrapy-production-template)** ⭐
+## 🚀 Featured Work
+
+### [Django Financial API Template](https://github.com/product-with-saeed/Django-Financial-API-Template) ⭐
+Production-ready Django REST Framework template for FinTech applications:
+- Complete transaction management system
+- JWT/Token authentication
+- PostgreSQL + modular architecture
+- RESTful API design with full CRUD operations
+- Docker-ready for deployment
+
+### [Production-Grade Scraper Template](https://github.com/product-with-saeed/scrapy-production-template) ⭐
+A complete, deployment-ready Scrapy project showcasing best practices:
 - 3 working spiders (news, quotes, e-commerce)
 - PostgreSQL pipeline with validation
 - Docker containerization
 - Complete documentation & deployment guides
 - **1000+ records scraped successfully**
 
+### Real Client Projects
+- **E-commerce data migration:** Extracted 25,000 products from Instagram-based store, built Django backend for new platform
+- **Investment mapping system:** Imported 10,000+ geo-tagged investment opportunities using ArcGIS shapefile processing
+- **Job aggregation platforms:** Built systems processing 10K+ listings daily with automated scraping + API delivery
+---
+
 ## 🛠️ Tech Stack
 
-**Languages:** Python (Expert), JavaScript, SQL  
-**Backend:** Django, FastAPI, Scrapy, Flask  
+**Backend:** Django (Expert), FastAPI, Flask, Celery  
+**Data & Scraping:** Scrapy, Selenium, BeautifulSoup, Pandas  
 **Databases:** PostgreSQL, MySQL, Redis  
-**Tools:** Docker, Git, Linux, REST APIs, CI/CD  
-**Cloud:** AWS, DigitalOcean, Heroku
+**Infrastructure:** Docker, Linux, Git, CI/CD  
+**Cloud:** AWS, DigitalOcean, Heroku  
+**Languages:** Python (Expert), JavaScript, SQL
+
+---
 
 ## 📬 Currently Available For
 
-✅ Web scraping & data extraction (e-commerce, jobs, real estate)  
-✅ Price monitoring & competitor tracking systems  
-✅ Job aggregation & content collection platforms  
-✅ API development & third-party integrations  
-✅ Data pipeline engineering & automation  
+✅ **Backend API development** (Django/FastAPI + PostgreSQL/Redis)  
+✅ **Data pipeline engineering** (ETL, scraping, automation)  
+✅ **E-commerce backend systems** (product management, inventory, integrations)  
+✅ **Web scraping & data extraction** (at scale, production-grade)  
+✅ **System architecture & optimization** (performance, scalability, documentation)
+
+---
 
 ## 📫 Contact
 
