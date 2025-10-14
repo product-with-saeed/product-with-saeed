@@ -99,5 +99,4 @@ Azad University, Mashhad | 1997 – 2001
 
 ---
 
-
 **Available 40 hours/week for remote backend development, data automation, and API projects**
