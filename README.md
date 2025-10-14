@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saeed Mohammadpour
 
-## Senior Python Backend Developer | Django & FastAPI | Data Automation Specialist
+## Senior Python Backend Developer | Django & FastAPI | Multilingual Systems & Data Automation
 
 I build production-grade backend systems for data-intensive applications — APIs, ETL pipelines, and automated data collection at scale.
 
@@ -11,6 +11,7 @@ I build production-grade backend systems for data-intensive applications — API
 I specialize in **backend development** where data extraction, transformation, and automation are critical:
 
 - **REST APIs & Backend Systems** — Django, FastAPI, PostgreSQL, Redis
+- **Multilingual/i18n Architecture** — Production systems supporting Persian, English, Arabic, Turkish
 - **Web Scraping & Data Collection** — Production scrapers handling 10K+ records daily
 - **ETL Pipelines & Data Processing** — Automated workflows from extraction to storage
 - **System Architecture** — Scalable, maintainable, well-documented solutions
@@ -48,6 +49,7 @@ A complete, deployment-ready Scrapy project showcasing best practices:
 
 ### Real Client Projects
 - **E-commerce data migration:** Extracted 25,000 products from Instagram-based store, built Django backend for new platform
+- **Multilingual e-commerce platforms:** Built Django systems with full Persian/English/Arabic support, RTL layouts, and locale-aware data handling
 - **Investment mapping system:** Imported 10,000+ geo-tagged investment opportunities using ArcGIS shapefile processing
 - **Job aggregation platforms:** Built systems processing 10K+ listings daily with automated scraping + API delivery
 ---
@@ -55,6 +57,7 @@ A complete, deployment-ready Scrapy project showcasing best practices:
 ## 🛠️ Tech Stack
 
 **Backend:** Django (Expert), FastAPI, Flask, Celery  
+**Internationalization:** Django i18n, RTL/LTR layouts, multi-language databases, locale management  
 **Data & Scraping:** Scrapy, Selenium, BeautifulSoup, Pandas  
 **Databases:** PostgreSQL, MySQL, Redis  
 **Infrastructure:** Docker, Linux, Git, CI/CD  
@@ -66,6 +69,7 @@ A complete, deployment-ready Scrapy project showcasing best practices:
 ## 📬 Currently Available For
 
 ✅ **Backend API development** (Django/FastAPI + PostgreSQL/Redis)  
+✅ **Multilingual/i18n systems** (Persian, English, Arabic, Turkish support + RTL layouts)  
 ✅ **Data pipeline engineering** (ETL, scraping, automation)  
 ✅ **E-commerce backend systems** (product management, inventory, integrations)  
 ✅ **Web scraping & data extraction** (at scale, production-grade)  
