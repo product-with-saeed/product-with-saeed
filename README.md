@@ -80,6 +80,13 @@ A complete, deployment-ready Scrapy project showcasing best practices:
 
 ---
 
+## 📄 Resume & Background
+
+- **[Saeed Mohammadpor](./RESUME.md)** (detailed experience & projects)
+- **[Download PDF](./resume.pdf)** (for offline/printing)
+
+---
+
 ## 📫 Contact
 
 💼 **LinkedIn:** [linkedin.com/in/product-with-saeed](https://www.linkedin.com/in/product-with-saeed/)  
