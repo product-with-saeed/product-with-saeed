@@ -1,22 +1,23 @@
 # Saeed Mohammadpour
-**Senior Python Backend Developer | Django & FastAPI | Data Automation Specialist**
+**Senior Python Backend Developer | Django & FastAPI | Multilingual Systems & Data Automation**
 
-📍 United Kingdom (Remote) | ✉️ product.with.saeed@gmail.com | 🔗 [linkedin.com/in/product-with-saeed](https://www.linkedin.com/in/product-with-saeed)  
+📍 Tehran, Iran (Remote) | ✉️ product.with.saeed@gmail.com | 🔗 [linkedin.com/in/product-with-saeed](https://www.linkedin.com/in/product-with-saeed)  
 💻 [github.com/product-with-saeed](https://github.com/product-with-saeed) | 🌐 [upwork.com/freelancers/~0186cad39ef759aae0](https://www.upwork.com/freelancers/~0186cad39ef759aae0)
 
 ---
 
 ## Profile
 
-Senior Python developer with 15+ years building production backend systems, APIs, and data automation pipelines. Specialized in data-intensive applications where web scraping, ETL processing, and scalable architecture are critical. Former CTO with proven ability to deliver complete solutions — from system design to deployment. Known for clean code, comprehensive documentation, and meeting deadlines.
+Senior Python developer with 15+ years building production backend systems, APIs, and data automation pipelines. Specialised in data-intensive applications and multilingual systems (Persian, English, Arabic, Turkish) where internationalisation, web scraping, ETL processing, and scalable architecture are critical. Former CTO with proven ability to deliver complete solutions — from system design to deployment. Known for clean code, comprehensive documentation, and meeting deadlines.
 
 ---
 
 ## Core Technical Skills
 
 **Backend Development:** Django (Expert), FastAPI, Flask, REST API Design, Celery  
+**Internationalisation:** Django i18n/l10n, Multi-language databases, RTL/LTR layouts, Locale management  
 **Data & Automation:** Scrapy, Selenium, BeautifulSoup, Pandas, ETL Pipelines  
-**Databases:** PostgreSQL, MySQL, Redis, Database Design & Optimization  
+**Databases:** PostgreSQL, MySQL, Redis, Database Design & Optimisation  
 **Infrastructure:** Docker, Linux, Git, CI/CD, System Architecture  
 **Cloud Platforms:** AWS, DigitalOcean, Heroku  
 **Languages:** Python (Expert), JavaScript, SQL
@@ -36,12 +37,14 @@ Senior Python developer with 15+ years building production backend systems, APIs
   - E-commerce platform migration: Extracted 25,000 products, built Django backend with full product management
   - Job aggregation API: Built FastAPI system processing 10K+ job listings daily with automated scraping
   - Financial transaction API template: Open-source Django REST Framework template for FinTech applications
+  - Multilingual e-commerce systems: Developed Django platforms with Persian/English/Arabic support, RTL layouts, and locale-aware content management
 
 ### Technical Lead & Senior Backend Developer
 **Kian Ravesh Data Bonyan** | Tehran | Jun 2023 – Feb 2025
 
 - Led backend development for SaaS analytics platform serving enterprise clients
 - Designed and implemented scalable Python/Django architecture handling high-volume data processing
+- Built multilingual data processing systems with support for Persian, English, and Arabic content
 - Built ETL pipelines integrating multiple data sources with automated validation
 - Optimized database performance and API response times, reducing latency by 40%
 - Managed technical documentation, code reviews, and deployment processes
@@ -86,6 +89,7 @@ Azad University, Mashhad | 1997 – 2001
 ## Key Achievements
 
 ✅ Delivered 50+ Python projects involving backend development, data automation, and web scraping  
+✅ Built multilingual systems supporting Persian, English, Arabic, and Turkish across Django, FastAPI, and Telegram bots  
 ✅ Built e-commerce backend handling 25,000+ product records with automated data migration  
 ✅ Developed geo-processing system importing 10,000+ investment opportunities from ArcGIS data  
 ✅ Created reusable templates and frameworks now used by multiple teams and open-source community  
