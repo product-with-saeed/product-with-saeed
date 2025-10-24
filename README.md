@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saeed Mohammadpour
 
-## Senior Python Backend Developer | Django & FastAPI | Multilingual Systems & Data Automation
+## Senior Python Backend Developer (Django & FastAPI) | Ex-CTO Delivering Scalable Systems & Data Automation | 15 yrs Building Production-Ready Backends
 
 I build production-grade backend systems for data-intensive applications — APIs, ETL pipelines, and automated data collection at scale.
 
