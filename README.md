@@ -1,68 +1,129 @@
 # 👋 Hi, I'm Saeed Mohammadpour
 
-### Senior Python Backend Developer | Django / FastAPI / Data Automation | ex-CTO Building Scalable, Reliable Systems
+### Product Owner Specialist | Enterprise Software | Telecom | AI & Data Product Systems
 
 ---
 
-### 🧠 What I Help Teams Achieve
-Most data-driven startups lose weeks to fragile backends, manual scraping, and unmonitored ETL jobs.  
-I design and deliver **production-ready Python systems** that remove those bottlenecks — so teams can **ship 3× faster** and **trust their data pipelines**.
+## About Me
+
+I work at the intersection of Product Management, Enterprise Software, and AI/Data Systems.
+
+My focus is helping organizations transform complex business needs into scalable products, governed knowledge, and operationally effective software solutions.
+
+Over the past 15+ years, I have worked across software engineering, technical leadership, data platforms, and product ownership roles. Today, my primary focus is Product Ownership and Product Systems within large-scale enterprise environments.
 
 ---
 
-### ⚙️ Expertise Snapshot
-- **Backend Architecture** → Django / FastAPI / PostgreSQL / Redis / Celery  
-- **Automation & Data Pipelines** → Scrapy / Selenium / Pandas / ETL workflows  
-- **Internationalization (i18n)** → Farsi / Arabic / English / Turkish; full RTL/LTR support  
-- **DevOps & Deployment** → Docker / Linux / CI-CD / Cloud (AWS | DigitalOcean)  
-- **Focus:** clean code, observable systems, and reproducible results
+## Current Focus
+
+### PO-KOS — Product Ownership Knowledge Operating System
+
+I am currently designing and building **PO-KOS**, an enterprise-oriented knowledge governance platform for Product Ownership teams.
+
+The problem PO-KOS addresses is common across large organizations:
+
+* Product knowledge becomes fragmented across RFCs, FRSs, User Stories, tickets, documents, and individual contributors.
+* Historical decisions become difficult to discover and reuse.
+* Product Owners repeatedly spend time reconstructing context before analysis can begin.
+
+PO-KOS transforms historical Product Ownership artifacts into governed knowledge assets and reusable Context Packages that help accelerate Change Request analysis and improve organizational knowledge reuse.
+
+Current MVP focus:
+
+* Artifact Acquisition
+* Knowledge Governance
+* Traceability
+* Relationship Management
+* Context Package Generation
+* AI-Ready Knowledge Foundations
 
 ---
 
-## Current Work
+## Professional Areas
 
-I am currently developing **PO-KOS — Product Ownership Knowledge Operating System**, a private enterprise-oriented MVP designed to transform historical Product Ownership artifacts into governed knowledge assets and reusable Context Packages.
+### Product Management & Product Ownership
 
-The project focuses on:
+* Product Discovery
+* Requirement Analysis
+* Change Request (CR) Management
+* RFC / FRS Design
+* User Story Design
+* Stakeholder Management
+* Product Operations
+* Delivery Readiness
 
-- artifact acquisition
-- knowledge governance
-- traceability
-- relationship management
-- context package generation
-- future AI-readiness without premature AI dependency
+### AI & Data Products
 
----
+* AI-Assisted Product Operations
+* Knowledge Systems
+* Data Products
+* Decision Support Systems
+* Analytics Workflows
+* Operational Intelligence
 
-### 🚀 Selected Work
+### Enterprise Software
 
-#### [Django Financial API Template ⭐](https://github.com/product-with-saeed/Django-Financial-API-Template)
-> A FinTech-ready Django REST Framework template with JWT auth, modular transaction engine, and Dockerized CI/CD — deployable in < 10 min.
-
-#### [Scrapy Production Template ⭐](https://github.com/product-with-saeed/scrapy-production-template)
-> A fully-containerized Scrapy project with PostgreSQL pipeline, validation layer, and health monitor — powering 10 K + daily data ingestions.
-
-#### 🧩 Real-World Impact
-- **25 K-product migration** for an e-commerce platform — zero downtime.  
-- **40 % latency reduction** for enterprise analytics APIs.  
-- **10 K + records/day ETL** for job aggregation pipelines.  
-- **Multilingual backends** serving Persian, Arabic, and English audiences.
-
----
-
-### 🏗️ Background
-Former **CTO & Technical Lead**, delivering 50 + data-intensive projects across SaaS, FinTech, and IoT.  
-Known for bridging product vision with solid engineering — code that ships fast, scales cleanly, and stays maintainable.
+* Telecom Systems
+* Business Support Systems (BSS)
+* Enterprise Platforms
+* Workflow Automation
+* Governance Systems
 
 ---
 
-### 📬 Let’s Connect
-📧 **product.with.saeed@gmail.com**  
-💼 [linkedin.com/in/product-with-saeed](https://www.linkedin.com/in/product-with-saeed/)  
-🧰 [Upwork Profile](https://www.upwork.com/freelancers/~0186cad39ef759aae0)
+## Technical Background
 
-> ⚡ *Available for senior-level backend, automation, and data-pipeline projects (EU / UK timezone)*
+My engineering background helps me bridge product strategy and implementation realities.
+
+Areas of experience:
+
+* Python
+* FastAPI
+* Django
+* PostgreSQL
+* Data Pipelines
+* ETL Systems
+* Docker
+* Cloud Infrastructure
+* System Architecture
+
+I continue to work hands-on in data and software projects when needed, particularly in AI, analytics, automation, and backend systems.
 
 ---
 
-🧩 **#Python  #Django  #FastAPI  #DataAutomation  #ETL  #Scrapy  #BackendArchitecture  #DevOps  #i18n**
+## Professional Background
+
+Former CTO and Technical Lead with experience delivering software solutions across:
+
+* Telecom
+* SaaS
+* Data Platforms
+* FinTech
+* Operational Automation
+
+Today my primary role is Product Ownership, with a strong interest in AI-enabled product systems and enterprise knowledge platforms.
+
+---
+
+## Current Interests
+
+* AI for Product Management
+* Enterprise Knowledge Systems
+* Product Operations
+* Organizational Learning
+* Data-Driven Decision Making
+* Product Governance
+* AI-Assisted SDLC
+
+---
+
+## Connect
+
+📧 [product.with.saeed@gmail.com](mailto:product.with.saeed@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/product-with-saeed/
+
+---
+
+> Building products that turn scattered organizational knowledge into reusable decision-making assets.
