@@ -10,7 +10,7 @@
 
 ---
 
-# Professional Summary
+## Professional Summary
 
 Product Owner Specialist with 15+ years of experience across enterprise software, technical leadership, software engineering, and data platforms.
 
@@ -22,9 +22,9 @@ Former CTO with a strong background in backend engineering, data systems, automa
 
 ---
 
-# Core Competencies
+## Core Competencies
 
-## Product Management & Product Ownership
+### Product Management & Product Ownership
 
 * Product Discovery
 * Requirement Engineering
@@ -40,7 +40,7 @@ Former CTO with a strong background in backend engineering, data systems, automa
 
 ---
 
-## AI & Data Products
+### AI & Data Products
 
 * AI-Assisted Product Operations
 * Knowledge Systems
@@ -52,7 +52,7 @@ Former CTO with a strong background in backend engineering, data systems, automa
 
 ---
 
-## Enterprise Software
+### Enterprise Software
 
 * Telecom Systems
 * Business Support Systems (BSS)
@@ -62,7 +62,7 @@ Former CTO with a strong background in backend engineering, data systems, automa
 
 ---
 
-## Technical Expertise
+### Technical Expertise
 
 * Python
 * FastAPI
@@ -78,11 +78,11 @@ Former CTO with a strong background in backend engineering, data systems, automa
 
 ---
 
-# Professional Experience
+## Professional Experience
 
-## Product Owner Specialist
+### Product Owner Specialist
 
-### Enterprise Telecom Software Environment
+#### Enterprise Telecom Software Environment
 
 **2025 – Present**
 
@@ -106,9 +106,9 @@ Key initiatives:
 
 ---
 
-## Senior Python Backend Developer (Freelance)
+### Senior Python Backend Developer (Freelance)
 
-### Remote
+#### Remote
 
 **2025 – Present**
 
@@ -123,9 +123,9 @@ Selected work:
 
 ---
 
-## Technical Lead & Senior Backend Engineer
+### Technical Lead & Senior Backend Engineer
 
-### Kian Ravesh Data Bonyan
+#### Kian Ravesh Data Bonyan
 
 **2023 – 2025**
 
@@ -137,9 +137,9 @@ Selected work:
 
 ---
 
-## CTO & Lead Engineer
+### CTO & Lead Engineer
 
-### Varsan Samaneh Radin
+#### Varsan Samaneh Radin
 
 **2019 – 2023**
 
@@ -151,9 +151,9 @@ Selected work:
 
 ---
 
-## Earlier Experience
+### Earlier Experience
 
-### Software Engineer | Senior Developer | Technical Consultant
+#### Software Engineer | Senior Developer | Technical Consultant
 
 **2001 – 2019**
 
@@ -161,9 +161,9 @@ Worked across enterprise software, automation systems, backend platforms, integr
 
 ---
 
-# Selected Initiatives
+## Selected Initiatives
 
-## PO-KOS — Product Ownership Knowledge Operating System
+### PO-KOS — Product Ownership Knowledge Operating System
 
 Enterprise-oriented platform designed to transform Product Ownership artifacts into governed knowledge assets and reusable Context Packages.
 
@@ -177,35 +177,44 @@ Focus areas:
 
 ---
 
-## Data & Automation Systems
+### Data & Automation Systems
 
 Designed and implemented automation, ETL, and analytics workflows supporting operational decision-making and enterprise reporting.
 
 ---
 
-## Enterprise Software Delivery
+### Enterprise Software Delivery
 
-Participated in the delivery of enterprise software solutions spanning telecom, SaaS, data platforms, and operational automation.
+Participated in the delivery of enterprise software solutions spanning Telecom, SaaS, data platforms, and operational automation.
 
 ---
 
-# Education
+## Education
 
-## B.Sc. Software Engineering
+### Professional Doctorate of Business Administration(DBA)
+
+Bahar Higher Education Institute, Tehran
+
+### Master of Business Administration (EMBA)
+
+Azad University, Sciences & Research Branch
+
+### B.Sc. Software Engineering
 
 Azad University, Mashhad
 
 ---
 
-# Languages
+## Languages
 
 * Persian — Native
 * English — Professional Working Proficiency
 * Turkish — Intermediate
+* German — Beginner
 
 ---
 
-# Professional Interests
+## Professional Interests
 
 * Product Management
 * Product Operations
