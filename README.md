@@ -19,6 +19,21 @@ I design and deliver **production-ready Python systems** that remove those bottl
 
 ---
 
+## Current Work
+
+I am currently developing **PO-KOS — Product Ownership Knowledge Operating System**, a private enterprise-oriented MVP designed to transform historical Product Ownership artifacts into governed knowledge assets and reusable Context Packages.
+
+The project focuses on:
+
+- artifact acquisition
+- knowledge governance
+- traceability
+- relationship management
+- context package generation
+- future AI-readiness without premature AI dependency
+
+---
+
 ### 🚀 Selected Work
 
 #### [Django Financial API Template ⭐](https://github.com/product-with-saeed/Django-Financial-API-Template)
