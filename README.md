@@ -26,7 +26,7 @@ The problem PO-KOS addresses is common across large organizations:
 * Historical decisions become difficult to discover and reuse.
 * Product Owners repeatedly spend time reconstructing context before analysis can begin.
 
-PO-KOS transforms historical Product Ownership artifacts into governed knowledge assets and reusable Context Packages that help accelerate Change Request analysis and improve organizational knowledge reuse.
+PO-KOS transforms historical Product Ownership artifacts into governed knowledge assets and reusable Context Packages that accelerate Change Request analysis and improve organizational knowledge reuse.
 
 Current MVP focus:
 
@@ -44,7 +44,7 @@ Current MVP focus:
 ### Product Management & Product Ownership
 
 * Product Discovery
-* Requirement Analysis
+* Requirement Engineering
 * Change Request (CR) Management
 * RFC / FRS Design
 * User Story Design
@@ -93,7 +93,7 @@ I continue to work hands-on in data and software projects when needed, particula
 
 ## Professional Background
 
-Former CTO and Technical Lead with experience delivering software solutions across:
+Former CTO, Technical Lead, and Software Architect with experience delivering enterprise software solutions across:
 
 * Telecom
 * SaaS
@@ -101,7 +101,7 @@ Former CTO and Technical Lead with experience delivering software solutions acro
 * FinTech
 * Operational Automation
 
-Today my primary role is Product Ownership, with a strong interest in AI-enabled product systems and enterprise knowledge platforms.
+Today my primary role is Product Ownership, with a strong interest in AI-enabled product systems, enterprise knowledge platforms, and operational intelligence.
 
 ---
 
@@ -121,9 +121,12 @@ Today my primary role is Product Ownership, with a strong interest in AI-enabled
 
 📧 [product.with.saeed@gmail.com](mailto:product.with.saeed@gmail.com)
 
-💼 LinkedIn:
+💼 LinkedIn
 https://www.linkedin.com/in/product-with-saeed/
+
+💻 GitHub
+https://github.com/product-with-saeed
 
 ---
 
-> Building products that turn scattered organizational knowledge into reusable decision-making assets.
+> Building products that transform scattered organizational knowledge into reusable decision-making assets.
